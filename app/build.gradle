@@ -36,6 +36,8 @@ dependencies {
     // FirebaseUI Auth only
     compile 'com.firebaseui:firebase-ui-auth:0.4.1'
     compile 'com.google.android.gms:play-services-appindexing:9.0.2'
+    compile 'com.github.devlight.navigationtabbar:navigationtabbar:1.2.3'
+
 }
 
 apply plugin: 'com.google.gms.google-services'
