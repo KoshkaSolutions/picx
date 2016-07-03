@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032664671765",
+    "firebase_url": "https://project-1984322608879091359.firebaseio.com",
+    "project_id": "project-1984322608879091359",
+    "storage_bucket": "project-1984322608879091359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032664671765:android:b933c94c755693a2",
+        "android_client_info": {
+          "package_name": "com.geminy.picx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032664671765-1v800edvcivqpckt0cl7bsb5de1i40nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geminy.picx",
+            "certificate_hash": "A68474D3B6E6EF04E4C8425EA4545D38603C9536"
+          }
+        },
+        {
+          "client_id": "1032664671765-mvq9d7bh4jiptqa26h1oqbc2f4v2677m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIadhO6HefDWVEtlrvujnkzOcEYNm_3S4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032664671765-mvq9d7bh4jiptqa26h1oqbc2f4v2677m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
